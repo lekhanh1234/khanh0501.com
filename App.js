@@ -1,9 +1,9 @@
 import { StyleSheet, Text, View } from 'react-native';
-import Bai2 from './src/component/lab4/bai2'
+import ASM from './src/component/asm/asm';
 
 export default function App() {
   return (
-    <Bai2></Bai2>
+    <ASM></ASM>
  )
 }
 
